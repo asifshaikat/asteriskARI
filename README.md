@@ -9,7 +9,7 @@ This repository provides a structured comparison of the three primary Asterisk i
 
 The comparison outlines key functionalities available in each interface to help developers choose the most suitable option based on their requirements.
 
-This repository was inspired by the discussion on the Asterisk community forum: [AGI, AMI, and ARI Features List](https://community.asterisk.org/t/agi-ami-and-ari-features-list-asterisk/103320).
+This repository was inspired and simply an extension of this  discussion thread and comments on the Asterisk community forum: [AGI, AMI, and ARI Features List](https://community.asterisk.org/t/agi-ami-and-ari-features-list-asterisk/103320).
 
 Official link for all interfaces on the Asterisk docs [Interface List](https://docs.asterisk.org/Configuration/Interfaces/).
 
@@ -42,8 +42,3 @@ The feature comparison table is available in **Markdown format** for easy refere
 
 2. Contribute by submitting issues or pull requests to enhance this documentation.
 
-## Contributions
-Contributions are welcome! Feel free to submit a pull request with improvements or additional insights related to Asterisk interfaces.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
